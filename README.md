@@ -1,12 +1,9 @@
-# Assignment<html>
+<html>
 <head>
 </head>
 <body>
 <h1>Html Tables</h1>
-
-
-
- <table border="5" cellspacing="5" cellspadding="10">
+<table border="5" cellspacing="5" cellspadding="10">
     <thead>
         <tr>
             <th>Days/Periods</th>
